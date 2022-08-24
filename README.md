@@ -23,7 +23,7 @@ The schematic is in the "Assets" folder
 €  4,00 Half-size transparent breadboard
 €  1,00 Jumper cables
 €  1,00 2,1mm DC barrel-jack
-€  1,00 0,1 µF (104) 10V cer. cap
+€  1,00 0,1 µF (104) 10V ceramic capacitor
 €  8,00 MEANWELL GS12E05-P1I PSU
 € 66,00
 </pre>  
