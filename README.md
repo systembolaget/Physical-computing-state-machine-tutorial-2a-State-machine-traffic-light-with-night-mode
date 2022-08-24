@@ -6,7 +6,7 @@ Control several actions with independent timing and a pushbutton. How to code a 
 
 You can click the image to play the associated YouTube video
 
-[![Alt text](Assets/1b%20result.jpg)](https://www.youtube.com/watch?v=YTFz2zIRLBs)
+[![Alt text](Assets/1b%20result.jpg)](https://www.youtube.com/watch?v=#######)
 
 ### Schematics
 
