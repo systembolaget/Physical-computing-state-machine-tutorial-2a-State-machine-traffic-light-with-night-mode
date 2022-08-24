@@ -12,7 +12,7 @@ You can click the image to play the associated YouTube video
 
 The schematic is in the "Assets" folder
 
-![](Assets/1b%20schematic%201.png)
+![](Assets/2a%20schematic.png)
 
 ### BOM
 
