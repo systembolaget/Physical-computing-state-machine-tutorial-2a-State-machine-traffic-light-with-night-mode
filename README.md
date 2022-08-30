@@ -12,6 +12,8 @@ You can click the image to play the associated YouTube video
 
 ![](Assets/2a%20schematic.png)
 
+### State diagram
+
 ### BOM
 
 <pre>
