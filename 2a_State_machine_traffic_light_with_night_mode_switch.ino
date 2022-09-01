@@ -28,7 +28,7 @@ CRGB ledRings[3][numLEDs]; // Declare three FastLED arrays to store each ring's 
 struct stateVariables
 {
   byte          number;         // Stores the number of each state (not really necessary here)
-  char          name[11];       // Stores the name of each state for serial printing
+  char          name[16];       // Stores the name of each state for serial printing
   unsigned long interval;       // Stores the duration for each state
   byte          ring0Colour[3]; // Stores three colour triples for the first ring (0)
   byte          ring1Colour[3];
