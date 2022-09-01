@@ -43,11 +43,11 @@ struct stateVariables
 stateVariables states[5] =
 {
   // State number, state name, state duration, ring0 colour triple, ring1 colour triple, ring 2 colour triple
-  {0, "RED",        9000, {0, 255, 192},      {0, 0, 0},      {0, 0, 0}},
-  {1, "RED_YELLOW", 2000, {0, 255, 192}, {32, 255, 255},      {0, 0, 0}},
-  {2, "GREEN",      6000,     {0, 0, 0},      {0, 0, 0}, {80, 255, 168}},
-  {3, "YELLOW",     2000,     {0, 0, 0}, {32, 255, 255},      {0, 0, 0}},
-  {4, "FLASHING",    600,     {0, 0, 0}, {32, 255, 255},      {0, 0, 0}}
+  {0, "RED",            9000, {0, 255, 192},      {0, 0, 0},      {0, 0, 0}},
+  {1, "RED_YELLOW",     2000, {0, 255, 192}, {32, 255, 255},      {0, 0, 0}},
+  {2, "GREEN",          6000,     {0, 0, 0},      {0, 0, 0}, {80, 255, 168}},
+  {3, "YELLOW",         2000,     {0, 0, 0}, {32, 255, 255},      {0, 0, 0}},
+  {4, "YELLOW_FLASHING", 600,     {0, 0, 0}, {32, 255, 255},      {0, 0, 0}}
 } ; // The state table is arranged horizontally, while the struct is arranged vertically, that's how it is
 
 // Variables that can change
