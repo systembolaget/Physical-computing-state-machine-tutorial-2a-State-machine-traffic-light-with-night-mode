@@ -14,6 +14,8 @@ You can click the image to play the associated YouTube video
 
 ### State diagram
 
+![](Assets/State%20diagram.png)
+
 ### BOM
 
 <pre>
