@@ -1,6 +1,6 @@
 # Physical computing state machine tutorial - State machine traffic light with night mode switch
 
-Control several actions with independent timing and a pushbutton. How to code a basic state machine with Arduino
+Control individually timed actions and let the user override them. How to pack different data-types in a struct and use the switch case statement with Arduino
 
 ### Setup
 
